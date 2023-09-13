@@ -1,0 +1,50 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#conteiner_display {
+    margin-top: auto;
+    height: 380px;
+}
+
+header {
+    background-color: white;
+    text-align: center;
+    display: block;
+    width: 310px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+#imagens {
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+}
+
+#conteiner_resul {
+    background-color: white;
+    text-align:center;
+    display: block;
+    width: 310px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+}
